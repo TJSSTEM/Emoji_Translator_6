@@ -31,11 +31,11 @@ EMOJI_DICT = {
     "happy": "😊",
     "sad": "😢",
     "cat": "🐱",
-    "dog": "🐩",
+    "dog": "🐶",
     "sun": "☀️",
     "coding": "💻",
     "win": "🏆",
-    "python": "👽",
+    "python": "🐍",
     "fire": "🔥"
     # Students can add more!
 }
