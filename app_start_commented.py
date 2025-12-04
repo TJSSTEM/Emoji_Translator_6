@@ -37,21 +37,22 @@ EMOJI_DICT = {
     "coding": "💻",
     "win": "🏆",
     "python": "🐍",
-    "fire": "🔥"
+    "fire": "🔥",
+    "i":"🪵",
+    "smileteer":"🥲",
+    "sister":"",
+    "sloth":"🦥",
+    "worm":"🪱",
+    "horse":"🐴",
+    "unicorn":"🦄",
+    "octopus":"🐙",
+    "dripping rose":"🥀",
+    "lavendar":"🪻",
+    "dragon":"🐲",
+    "phoenix":"🐦‍🔥"
     # Students can add more!
 } 
-"demon":"👹",
-"smileteer":"🥲",
-"paislie":"🎅",
-"sloth":"🦥",
-"worm":"🪱",
-"horse":"🐴",
-"unicorn":"🦄",
-"octopus":"🐙",
-"dripping rose":"🥀",
-"lavendar":"🪻",
-"dragon":"🐲",
-"phoenix":"🐦‍🔥"
+
 
 # ------------------------------------
 
